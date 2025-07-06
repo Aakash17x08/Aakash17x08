@@ -27,6 +27,20 @@
 
 ---
 
+## 🚀 Projects
+
+### 🌐 Portfolio Website
+> A clean and modern developer portfolio to showcase my skills, projects, and resume. Built with **React**, **Tailwind CSS**, and fully responsive.  
+🔗 [Live Demo](https://aakashmaurya.netlify.app) • 📂 [Code](https://github.com/Aakash17x08/portfolio)
+
+---
+
+### ⚡ Flash IDE
+> A web-based lightweight **code playground** supporting multiple languages like HTML, CSS, JS, Python, and more. Built using **Monaco Editor**, **React**, and **RapidAPI** for compilation.  
+🔗 [Live Demo](https://flash-ide.netlify.app) • 📂 [Code](https://github.com/Aakash17x08/flash-ide)
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakash17x08&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
@@ -49,9 +63,9 @@
 
 ## 📈 Profile Visitor Count
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Aakash17x08&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Aakash17x08&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
+
 
 ---
 
-> 🔧 *Crafted with passion using [GPRM](https://gprm.itsvg.in)*  
