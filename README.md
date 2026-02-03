@@ -1,22 +1,28 @@
-<h1 align="center">Hey there, I'm Aakash Maurya 👋</h1>
-<p align="center">🚀 Web Developer | 📚 DSA Learner | 🎓 BCA Student</p>
+# Hi, I'm Aakash 👋
+
+> Crafting reliable, maintainable software and making the web a little better — one commit at a time.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash17x08/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=web&logoColor=white)](https://aakash17x.netlify.app/)  
+
+I'm Aakash (GitHub: `Aakash17x08`) — a passionate developer who loves building clean, user-centered products. I enjoy learning new technologies, contributing to open-source, and collaborating on projects that solve real problems.
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Currently working on **full-stack web development projects**
-- 🌱 Focused on mastering **Data Structures and Algorithms**
-- 🎓 Pursuing **Bachelor's in Computer Applications (BCA)**
-- 💡 Interested in **Open Source**, **System Design**, and **Performance Optimization**
+## 🚀 Quick Snapshot
+- 🔭 Currently:learning Data Science
+- 🌱 Focused on: [primary areas — e.g., Frontend, Backend, ML, DevOps]
+- 💬 Ask me about: Data Science , DSA , Development
+- 📫 Reach me: [aakash17x@gmail.com] (or use the LinkedIn / Portfolio links above)
+
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/aakash-maurya-b18152326/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## 🛠️ Core Skills
+- Languages: JavaScript, Python, Java 
+- Frameworks & Libraries: React, Node.js, Express, Next.js 
+- Tools: Git, Github, VScode
+- Databases: MongoDB, SQL
+- DataScience: Paandas, Numpy, Matplotlib, Seaborn, Statistics, ML>
 
 ---
 
