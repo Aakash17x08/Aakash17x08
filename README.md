@@ -17,19 +17,72 @@ I'm Aakash (GitHub: `Aakash17x08`) — a passionate developer who loves building
 
 ---
 
-## 🛠️ Core Skills
-- Languages: JavaScript, Python, Java 
-- Frameworks & Libraries: React, Node.js, Express, Next.js 
-- Tools: Git, Github, VScode
-- Databases: MongoDB, SQL
-- DataScience: Paandas, Numpy, Matplotlib, Seaborn, Statistics, ML>
+Got it 👍 You want this **clean, structured, and GitHub-profile ready** with **separate sections + icons**.
+Here’s a **fixed & polished version** with clear separation 👇
+
+
+## 🧠 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
+</p>
+
+* JavaScript
+* Java
+* Python
 
 ---
 
-## 💻 Tech Stack
+## ⚙️ Frameworks & Libraries
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,mysql,git,github,java,python" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 </p>
+
+* React
+* Next.js
+* Node.js
+* Express.js
+* Tailwind CSS
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+* MongoDB
+* MySQL (SQL)
+
+---
+
+## 📊 Data Science & Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Statistics
+* Machine Learning
+
+---
+
+## 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+* Git
+* GitHub
+* VS Code
+
 
 ---
 
