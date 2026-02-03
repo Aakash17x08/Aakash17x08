@@ -17,19 +17,19 @@ I'm Aakash (GitHub: `Aakash17x08`) — a passionate developer who loves building
 
 ---
 
-Got it 👍 You want this **clean, structured, and GitHub-profile ready** with **separate sections + icons**.
-Here’s a **fixed & polished version** with clear separation 👇
+## 🛠️ Core Skills
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=frontend,backend,fullstack,git" />
+</p>
+
+---
 
 ## 🧠 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
 </p>
-
-* JavaScript
-* Java
-* Python
 
 ---
 
@@ -39,12 +39,6 @@ Here’s a **fixed & polished version** with clear separation 👇
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 </p>
 
-* React
-* Next.js
-* Node.js
-* Express.js
-* Tailwind CSS
-
 ---
 
 ## 🗄️ Databases
@@ -53,23 +47,13 @@ Here’s a **fixed & polished version** with clear separation 👇
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-* MongoDB
-* MySQL (SQL)
-
 ---
 
-## 📊 Data Science & Analytics
+## 📊 Data Science & ML
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Statistics
-* Machine Learning
 
 ---
 
@@ -79,51 +63,35 @@ Here’s a **fixed & polished version** with clear separation 👇
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-* Git
-* GitHub
-* VS Code
-
-
 ---
 
-## 🚀 Projects
-
-### 🌐 Portfolio Website
-> A clean and modern developer portfolio to showcase my skills, projects, and resume. Built with **React**, **Tailwind CSS**, and fully responsive.  
-🔗 [Live Demo](https://aakashmaurya.netlify.app) • 📂 [Code](https://github.com/Aakash17x08/portfolio)
-
----
-
-### ⚡ Flash IDE
-> A web-based lightweight **code playground** supporting multiple languages like HTML, CSS, JS, Python, and more. Built using **Monaco Editor**, **React**, and **RapidAPI** for compilation.  
-🔗 [Live Demo](https://flash-ide.netlify.app) • 📂 [Code](https://github.com/Aakash17x08/flash-ide)
-
----
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakash17x08&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aakash17x08&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash17x08&theme=radical&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash17x08&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash17x08&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash17x08&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## ✨ Dev Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 📈 Profile Visitor Count
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aakash17x08&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
+## 📈 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aakash17x08&label=Profile%20Views&color=ff0054&style=flat-square" />
 </p>
 
-
 ---
+
