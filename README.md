@@ -90,7 +90,7 @@ Here are a few projects I’m proud of (pinned in this repo or on my profile).
 ## 📫 Contact
 - Email: [aakash17x08@gmail.com](mailto:aakash17x08@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/aakash17x08/
-- Portfolio: https://aakash17x.netlify.app/
+- Portfolio: https://aakash17x08.netlify.app/
 
 ---
 
