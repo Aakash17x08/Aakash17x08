@@ -3,7 +3,7 @@
 > Crafting reliable, maintainable software and making the web a little better — one commit at a time.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash17x08/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=web&logoColor=white)](https://aakash17x.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=web&logoColor=white)](https://aakash17x08.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-aakash17x08@gmail.com-red?logo=gmail&logoColor=white)](mailto:aakash17x08@gmail.com)
 
 I'm Aakash (GitHub: `Aakash17x08`) — a developer passionate about building clean, user-centered products. I enjoy learning new technologies, contributing to open-source, and collaborating on projects that solve real problems.
